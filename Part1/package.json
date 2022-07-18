@@ -10,5 +10,8 @@
     "ethers": "^5.6.4",
     "hardhat": "^2.9.3",
     "snarkjs": "^0.4.22"
+  },
+  "dependencies": {
+    "circom_tester": "^0.0.14"
   }
 }
